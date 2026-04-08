@@ -10,7 +10,7 @@
 
 - 📫 How to reach me : [snehac94227@gmail.com](mailto:snehac94227@gmail.com)
 
-- 📄 Resume : [View Resume](https://drive.google.com/file/d/1wBFoH7I0j854tSycOTj9qiRUZG56J0f0/view?usp=drive_link)
+- 📄 Resume : [https://drive.google.com/file/d/1wBFoH7I0j854tSycOTj9qiRUZG56J0f0/view?usp=drive_link](https://drive.google.com/file/d/1wBFoH7I0j854tSycOTj9qiRUZG56J0f0/view?usp=drive_link)
 
 ---
 
@@ -36,12 +36,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaRC880&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaRC880&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
