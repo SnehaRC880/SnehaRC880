@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I'm currently learning : **DevOops**
+- 🌱 I'm currently learning : **System Design**
 
 - 💬 Ask me about : I'm Sneha Chaudhari, a passionate Full Stack Web Developer skilled in the MERN stack and modern web technologies. I enjoy building scalable, secure, and user-friendly web applications that solve real-world problems.
 
